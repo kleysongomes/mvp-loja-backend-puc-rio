@@ -1,7 +1,7 @@
 # MVP Loja Backend - PUC-Rio
 
 ## Descrição do Projeto
-Esta é uma API REST desenvolvida em Python com FastAPI para o Produto Mínimo Viável (MVP) da disciplina de Arquitetura de Software da PUC-Rio. O sistema atua no **Cenário 1.1**, servindo como o Back-End de uma aplicação de loja online. Ele é responsável por gerenciar a autenticação dos usuários (via JWT), persistir os dados em um banco SQLite e consumir dados de produtos através de uma API externa de terceiros.
+Esta é uma API REST desenvolvida em Python com FastAPI para o Produto Mínimo Viável (MVP) da disciplina de Desenvolvimento Back-end Avançado da PUC-Rio. O sistema atua no **Cenário 1.1**, servindo como o Back-End de uma aplicação de loja online. Ele é responsável por gerenciar a autenticação dos usuários (via JWT), persistir os dados em um banco SQLite e consumir dados de produtos através de uma API externa de terceiros.
 
 ## API Externa Utilizada
 Este projeto consome a **FakeStore API** para a listagem de produtos.
