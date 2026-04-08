@@ -10,11 +10,6 @@ Este projeto consome a **FakeStore API** para a listagem de produtos.
 * **Licença/Uso:** API pública e gratuita, sem necessidade de cadastro ou tokens de autenticação.
 * **Rotas utilizadas:** `GET https://fakestoreapi.com/products`
 
-## Arquitetura
-Abaixo está o fluxograma que ilustra a arquitetura da aplicação e a comunicação entre o Front-End, o Back-End e a API Externa:
-
-![Fluxograma da Arquitetura](link_para_a_sua_imagem_aqui.png)
-
 ## Tecnologias Utilizadas
 * **Linguagem:** Python 3.11+
 * **Framework:** FastAPI
